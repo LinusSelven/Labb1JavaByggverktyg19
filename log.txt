@@ -1,3 +1,9 @@
+commit c1ecc0fcbbd7f1cbcefefe68ec63b69417bd8097
+Author: Skoorps <kpOC8&1I3$Js&03*bWN8>
+Date:   Sat Nov 2 20:44:38 2019 +0100
+
+    Added git log to log.txt
+
 commit f01926775685265e7bfceebe3d8f1eafe47cdd49
 Author: Skoorps <kpOC8&1I3$Js&03*bWN8>
 Date:   Sat Nov 2 20:42:20 2019 +0100
