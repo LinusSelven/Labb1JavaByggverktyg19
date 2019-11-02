@@ -1,0 +1,11 @@
+commit f01926775685265e7bfceebe3d8f1eafe47cdd49
+Author: Skoorps <kpOC8&1I3$Js&03*bWN8>
+Date:   Sat Nov 2 20:42:20 2019 +0100
+
+    Created log.txt
+
+commit 90a06a61288858e1424e4e9d4ab1c2e43bb4a23b
+Author: Skoorps <kpOC8&1I3$Js&03*bWN8>
+Date:   Sat Nov 2 20:38:36 2019 +0100
+
+    Created .gitignore and README files
